@@ -6,6 +6,7 @@ print("Enter Your Password : \n")
 passw = input()
 print("Enter receiver's mail ID : ")
 sml = input()
+#SMTP server connection
 server = smtplib.SMTP('smtp.gmail.com', 587)
 server.starttls()
 server.login(mo, passw)
