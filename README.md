@@ -1,2 +1,2 @@
 # Python
-Basic Python Projects with simple automation using built in python packages
+Basic Python Automation Projects using built in Python modules
